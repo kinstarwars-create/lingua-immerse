@@ -4,13 +4,7 @@
   "dev_command": "pnpm run dev",
   "env_vars": {},
   "experiments": null,
-  "git_remote": {
-    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663679142156/d75CgPcicsVtCfc3XgLVLJ",
-    "access_key_id": "ASIAZV3A2ECZEWXBVO7B",
-    "secret_access_key": "z7aGat0mfDbPpMoo6GUMtp2fIO0HxZcS7ujCOOiK",
-    "session_token": "IQoJb3JpZ2luX2VjECQaCXVzLWVhc3QtMSJHMEUCIAJAXq8eYW4cxp1FRbGMRBB+fjm/Fq8mwrrOKYqsFs4LAiEA112AyiHKDW+VxShe7+lE8T0kJpDQcz6twDONKBScfXAq/wMI7f//////////ARAEGgw2NjUzODYwOTg4NjYiDPONsnHh70n9fZkE6irTAz8XDPMC/2v6SqkGozu8Tx7RlsdNm3Ub0jAlTWPgXyKHrw7sMv87Qvm6y7ARma7URvNy47fmY4NS8ra/y88Sux07Gfj2LNIEdX6gFEbEpxQzlYEVkMyaqQyRFiPrptBW5kNJiXQWIYdZmprXdJy/l7AwP8ydbmvo6aFPBPhJ2X4YY0h95eebMi511upaS1PAQfAsY2VrllZ6aTlhgOwaVN0aqtvfV3jx88Nlzoolimfp4N7YlyxB2NY+MrJDJp5uyDET6KEbrYGn79iyKVRamQ/lvv/YO4TlvaP9AUNGIgXApgwKAtrRnM+cUMaPX3HJq8sMLdiTS+2j07fsR7BGwd3MEvdyPIf4f/VpK4NTJzs0dJ7ckLFI5/Z+vb4mBbCiDfPLRe3worPUy+QU0HsGbSfsXgcsrwWIXtCcHgbfQsibnDcPr2ygVAgcfBlQljXoT55wSwdB8ofou3F/8Kr9TvsGLiIsxbEP+cbU2wJbutj6AbOI1+fTbFdPAGr0QF07JGZ8y75zmlcjBipfWyMfLks+Ft/sMnglgouMKEBLmeRdC159N6KRRavvSVTXwvuAnx/iyXZI6edwsCtV+g582v9b3c3Wg9B1U0ZlDCNE7S0kN2VOMOu6ttAGOp0Bxp07BGEwPZzo/gBI41l2E39wCtpvgEty4OfrwaQcvTzqHazMAtG8dkEvLpaN2M48p7OLxwlBBpdc+uZ5a3HIn9ui4VPLLeRcgDDDIzpoSL9GtUoaZPG6+us6fU0+CQluMKIBzHLgrQlIJ1d8VexEIl3sIdJ0xebTQuH4B+lGyG9bTyUXHJgahKGeawA+gdOEECjFIJsNomqdHbJDtA==",
-    "expiration": "2026-05-20T23:39:23.000Z"
-  },
+  "git_remote": null,
   "name": "lingua-immerse",
   "path": "/home/ubuntu/lingua-immerse",
   "port": 3000,
